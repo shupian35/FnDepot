@@ -2,7 +2,7 @@
   "_comment": "shupian35/FnDepot 飞牛 fnOS 应用索引。新 app 部署到这里后由 buildbot 工作流自动追加条目。",
   "AniRSS": {
     "version": "3.1.74-1",
-    "changelog": "",
+    "changelog": "- refactor: 优化进度条\n- refactor: 优化删除备用RSS逻辑",
     "download_url": "https://github.com/shupian35/FnDepot/releases/download/2026.7.19/AniRSS-3.1.74-1-all.fpk"
   }
 }
