@@ -1,8 +1,24 @@
 {
-  "_comment": "shupian35/FnDepot 飞牛 fnOS 应用索引。新 app 部署到这里后由 buildbot 工作流自动追加条目。",
+  "_comment": "shupian35/FnDepot 飞牛 fnOS 应用索引。layout 与 shuangji66/FnDepot 对齐：每条 app 一份含完整 schema 的索引项，每个 app 还有独立的 ICON.PNG / Preview / README.md。",
   "AniRSS": {
+    "display_name": "ANI-RSS",
+    "platform": ["x86", "arm"],
+    "desc": "<p>🥰 基于 RSS 自动追番、订阅、下载、刮削、整理。</p><p>支持蜜柑 / Mikan / 动漫花园 / Bangumi / TMDB 等多源，自动推送到 qBittorrent / Transmission / Aria2，自带 Web 管理面板。</p><p>本软件依赖 Java 17 环境，优先调用 java-17-openj9。</p>",
+    "labels": "原生,追番,下载,工具",
     "version": "3.1.74-3",
+    "distributor": "shupian35",
+    "distributor_url": "https://github.com/shupian35/FnDepot",
+    "bug_report_url": "https://github.com/shupian35/FnDepot/issues",
+    "install_type": "存储空间",
+    "size": "150",
     "changelog": "- refactor: 优化进度条\n- refactor: 优化删除备用RSS逻辑",
-    "download_url": "https://github.com/shupian35/FnDepot/releases/download/2026.7.19/AniRSS-3.1.74-3-all.fpk"
+    "arch_diff": {
+      "x86": {
+        "download_url": "https://github.com/shupian35/FnDepot/releases/download/2026.7.19/AniRSS-3.1.74-3-all.fpk"
+      },
+      "arm": {
+        "download_url": "https://github.com/shupian35/FnDepot/releases/download/2026.7.19/AniRSS-3.1.74-3-all.fpk"
+      }
+    }
   }
 }
