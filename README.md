@@ -1,9 +1,5 @@
 # FnDepot - 飞牛 OS 应用仓库
 
-🥰 咸鱼不会写代码，但是咸鱼会用 shell，专注于原生 fpk 的打包，顺便蹭新官方仓库的新旧软件，做条咸鱼<br>
-💡 大部分项目都是二改制 + webui，已支持 FnDepot 仓库 x86、arm 双版本<br>
-🥰 闲时把大部分项目转成 action 构建，感兴趣的可以参考：<https://github.com/shuangji66/buildbot><br>
-
 以下根据 `fnpack.json` 列出所有已打包应用，方便快速知其貌、显示名与功能简介：
 
 | 包名 | 显示名 | 描述 |
