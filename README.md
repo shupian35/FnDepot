@@ -17,6 +17,7 @@
 
 1. Fork 本仓库
 2. 在 `fnpack.json` 中按现有 schema 追加你的 app 索引项
+   - `fnpack.json` 顶层只能包含应用对象，不要添加 `_comment` 等字符串型元数据
 3. 在仓库根创建对应 app 目录（`<AppName>/`），放入 `ICON.PNG` / `Preview/*.png` / `README.md`
 4. 提交 PR
 

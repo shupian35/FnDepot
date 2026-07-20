@@ -1,5 +1,4 @@
 {
-  "_comment": "shupian35/FnDepot 飞牛 fnOS 应用索引。layout 与 shuangji66/FnDepot 对齐：每条 app 一份含完整 schema 的索引项，每个 app 还有独立的 ICON.PNG / Preview / README.md。",
   "AniRSS": {
     "display_name": "ANI-RSS",
     "platform": [
